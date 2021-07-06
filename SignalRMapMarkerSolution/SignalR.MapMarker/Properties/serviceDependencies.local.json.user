@@ -1,0 +1,13 @@
+{
+  "dependencies": {},
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "SEA-SignalR-Demo"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "fcff6346-c603-4e19-bdea-178aeec5b4f9"
+    }
+  }
+}
